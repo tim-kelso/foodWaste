@@ -1,2 +1,2 @@
-# energyAnalysis
-Coding training with interesting energy datasets
+# Food Waste
+Coding training with interesting datasets
